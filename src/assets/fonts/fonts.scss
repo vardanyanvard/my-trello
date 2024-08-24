@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "Plaifair-400";
+  src: url("./Playfair/PlayfairDisplay-Regular.eot");
+  /* IE9 Compat Modes */
+  src: url("./Playfair/PlayfairDisplay-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("./Playfair/PlayfairDisplay-Regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */ url("./Playfair/PlayfairDisplay-Regular.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("./Playfair/PlayfairDisplay-Regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("./Playfair/PlayfairDisplay-Regular.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+}
+
+@font-face {
+  font-family: "Roboto-500";
+  src: url("./Playfair/PlayfairDisplay-Medium.eot");
+  /* IE9 Compat Modes */
+  src: url("./Playfair/PlayfairDisplay-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("./Playfair/PlayfairDisplay-Medium.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("./Playfair/PlayfairDisplay-Medium.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("./Playfair/PlayfairDisplay-Medium.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("./Playfair/PlayfairDisplay-Medium.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+}
+
+@font-face {
+  font-family: "Roboto-600";
+  src: url("./Playfair/PlayfairDisplay-SemiBold.eot");
+  /* IE9 Compat Modes */
+  src: url("./Playfair/PlayfairDisplay-SemiBold.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("./Playfair/PlayfairDisplay-SemiBold.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */ url("./Playfair/PlayfairDisplay-SemiBold.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("./Playfair/PlayfairDisplay-SemiBold.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("./Playfair/PlayfairDisplay-SemiBold.svg#svgFontName") format("svg");
+  /* Legacy iOS */
+}
+
+@font-face {
+  font-family: "Inter-400";
+  src: url("./Inter/Inter18pt-Regular.eot");
+  /* IE9 Compat Modes */
+  src: url("./Inter/Inter18pt-Regular.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("./Inter/Inter18pt-Regular.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("./Inter/Inter18pt-Regular.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("./Inter/Inter18pt-Regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("./Inter/Inter18pt-Regular.svg#svgFontName")
+      format("svg");
+  /* Legacy iOS */
+}
