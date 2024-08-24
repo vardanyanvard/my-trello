@@ -4,16 +4,14 @@ import SignIn from "../components/SignIn";
 import SignUp from "../components/SignUp";
 import Home from "../components/Home";
 
-const {
-  paths: { home, signIn, signUp },
-} = constants;
+const { paths } = constants;
 
 function RootRouter() {
   return (
     <Routes>
-      <Route path={home} element={<Home />} />
-      <Route path={signIn} element={<SignIn />} />
-      <Route path={signUp} element={<SignUp />} />
+      <Route path={paths.home} element={<Home />} />
+      <Route path={paths.signIn} element={<SignIn />} />
+      <Route path={paths.signUp} element={<SignUp />} />
       <Route path={"*"} element={<SignIn />} />
     </Routes>
   );
